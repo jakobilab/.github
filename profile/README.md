@@ -1,4 +1,4 @@
-Welcome to the Jakobi Lab 👋
+Welcome to the Jakobi Lab
 ---
 
 - 🔭 We are working on the interplay of coding and [non-coding RNAs](https://en.wikipedia.org/wiki/Non-coding_RNA), such as the novel class of [circular RNAs (circRNAs)](https://en.wikipedia.org/wiki/Circular_RNA) in heart disease and employ computational methods to answer questions
